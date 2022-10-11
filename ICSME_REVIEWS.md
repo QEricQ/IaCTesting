@@ -1,10 +1,10 @@
 ----------------------- REVIEW 1 ---------------------
-SUBMISSION: 315
+SUBMISSION: 320
 TITLE: An Exploratory Synthesis of Testing Practices for Infrastructure as Code
 AUTHORS: Mohammed Mehedi Hasan, Farzana Ahmed Bhuiyan and Akond Rahman
 
 ----------- Overall evaluation -----------
-SCORE: -5 (reject)
+SCORE: -50 (reject)
 ----- TEXT:
 -> Summary of the submission.
 This short paper presents a non-systematic grey literature review of 50 internet websites aiming at analyzing the developer's practices concerning to infrastructure code (IaC) testing. Two researchers employed an open-coding procedure which led to the emergence of six tactics currently employed by practitioners when testing infrastructure code.
