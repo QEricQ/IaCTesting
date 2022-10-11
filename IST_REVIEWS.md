@@ -28,7 +28,7 @@ In conclusion, let me be clear. *I am not against the publication of this piece 
 
 [B] https://www.journals.elsevier.com/information-and-software-technology/call-for-papers/grey-literature-and-multivocal-literature-reviews
 
-
+change a bit with comment
 
 Reviewer #2: This is a short communication paper that summarizes practitioners-reported testing practices for infrastructure as code scripts. The research methodology uses a systematic analysis process, and I think it is sound. The topic, testing IaC scripts, is an important topic that deserves further attention, and I think that this paper can have implications in other researchers to consider this topic an important one. I only have a few minor typos as a suggestion for improving the paper:
 
