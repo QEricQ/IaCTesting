@@ -73,7 +73,7 @@ jobs:
       with:
         category: "/language:${{matrix.language}}"
         
-        name: Codacy Security Scan
+name: Codacy Security Scan
 
 on:
   push:
